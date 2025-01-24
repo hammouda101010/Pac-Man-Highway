@@ -16,4 +16,4 @@ Parry SFX from Ultrakill
 
 
 
-##### _Game Version: V0.5_
+##### _Game Version: V0.8_
